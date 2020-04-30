@@ -7,9 +7,9 @@ services:
     build: .
     environment:
       PORT: 80
-      PUBLIC_URL: https://www.millymollymandycakes.co.uk
-      VIRTUAL_HOST: www.millymollymandycakes.co.uk
-      LETSENCRYPT_HOST: www.millymollymandycakes.co.uk
+      PUBLIC_URL: https://36yearold.baby
+      VIRTUAL_HOST: 36yearold.baby
+      LETSENCRYPT_HOST: 36yearold.baby
       LETSENCRYPT_EMAIL: hello@jackallen.me
     expose:
       - 80
