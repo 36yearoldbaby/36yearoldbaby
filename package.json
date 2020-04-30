@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "docker:proxy": "docker-compose up",
+    "docker:client": "yarn --cwd ./client start:docker"
+  }
+}
